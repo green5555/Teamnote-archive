@@ -1,1 +1,3 @@
-# Teamnote-archive
+## Green55의 팀 노트 (archive)
+* 오프라인 대회에서 사용할 (즉, 인쇄된 코드를 보고 따라 칠) 목적으로 만들어진 팀노트의 아카이브입니다.
+* 더 자세한 내용이나, 온라인에서 사용하는 복붙용 코드는 [Teamnode 리포지토리](https://github.com/green5555/Teamnote)를 참고해주세요.
